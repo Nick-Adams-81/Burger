@@ -14,5 +14,5 @@ those technoligies are as foillows:
 * servers
 
 This project is my first deep dive into full stack programming, my main troubles 
-came from the routing, and im still having problems with the concepts of ORM, it 
+came from the routing and ORM ,  i'm still having problems with the concepts of ORM, it 
 will come together I feel more time working on it will benifit me greatly.
