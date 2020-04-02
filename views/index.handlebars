@@ -20,10 +20,17 @@
 
 <h2>Add Burgers</h2>
 <form class="create-form">
+
     <div class="form-group">
         <label for="eat-me">EAT ME!!</label>
-        <br>
-        <input type="radio" name="eat-me" value="1" checked>Eaten!<br>
-        <input type="radio" name="eat-me" value="0"> EAT ME!
+        <input type="text" id="br" name="name">
     </div>
+
+    <div class="form-group">
+        <label for="devoured">Devoured?</label><br>
+        <input type="radio" name="devoured" value="1" checked> Devoured!!!!<br>
+        <input type="radio" name="devoured" value="0">Eat Me!!!
+
+    </div>
+    <button type="submit">Add a burger!</button>
 </form>
