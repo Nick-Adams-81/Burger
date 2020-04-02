@@ -1,4 +1,4 @@
-# Burger
+# Burger App
 
 This is the Burger homework, the goal of this app is to demonstrate 
 what I have learned in the past couple of weeks about various technologies,
